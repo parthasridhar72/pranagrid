@@ -1,0 +1,6 @@
+{
+  "name": "PranaGrid: Federated National PHC Logistics & Health Supply Chain",
+  "description": "Federated AI platform for India's Primary Healthcare Centre (PHC) network providing real-time visibility into medicine stocks, bed capacity, personnel attendance, predictive demand forecasting, emergency stock-out early warnings, cross-district redistribution, and privacy-preserving federated model training.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
